@@ -2,7 +2,7 @@
 {
     internal class Client
     {
-        static void Main(string[] args)
+        static void BuilderMain(string[] args)
         {
             //Implementation 2
             StudentDirector studentDirector = new StudentDirector();
