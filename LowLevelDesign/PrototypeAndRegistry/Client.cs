@@ -2,7 +2,7 @@
 {
     internal class Client
     {
-        static void Main(string[] args)
+        public static void PrototypeMain()
         {
             EmployeeRegistry empreg = new();
             RegisterTemplate(empreg);
