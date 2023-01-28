@@ -1,4 +1,5 @@
-﻿using Client = LowLevelDesign.Factory.Client;
+﻿
+using LowLevelDesign.Adapter;
 
 namespace LowLevelDesign
 {
@@ -6,7 +7,7 @@ namespace LowLevelDesign
     {
         static void Main(string[] args)
         {
-            Client.FactoryMain();
+            Client.AdapterMain();
         }
     }
 }
