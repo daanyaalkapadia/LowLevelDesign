@@ -1,5 +1,4 @@
 ﻿
-using LowLevelDesign.Decorator;
 
 namespace LowLevelDesign
 {
@@ -7,7 +6,7 @@ namespace LowLevelDesign
     {
         static void Main(string[] args)
         {
-            Client.DecoratorMain();
+            Singleton.Client.SingletonMain();
         }
     }
 }
