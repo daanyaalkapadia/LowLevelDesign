@@ -1,5 +1,5 @@
 ﻿
-using LowLevelDesign.Adapter;
+using LowLevelDesign.Decorator;
 
 namespace LowLevelDesign
 {
@@ -7,7 +7,7 @@ namespace LowLevelDesign
     {
         static void Main(string[] args)
         {
-            Client.AdapterMain();
+            Client.DecoratorMain();
         }
     }
 }
