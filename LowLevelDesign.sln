@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowLevelDesign", "LowLevelDesign\LowLevelDesign.csproj", "{2053A4EC-52EF-4EAB-952E-67134A7FC9FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowLevelDesign", "LowLevelDesign\LowLevelDesign.csproj", "{2053A4EC-52EF-4EAB-952E-67134A7FC9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalDesign", "PracticalDesign\PracticalDesign.csproj", "{FC6A5FE9-8B35-472F-95AB-F1B54170C290}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2053A4EC-52EF-4EAB-952E-67134A7FC9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2053A4EC-52EF-4EAB-952E-67134A7FC9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2053A4EC-52EF-4EAB-952E-67134A7FC9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6A5FE9-8B35-472F-95AB-F1B54170C290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A5FE9-8B35-472F-95AB-F1B54170C290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A5FE9-8B35-472F-95AB-F1B54170C290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A5FE9-8B35-472F-95AB-F1B54170C290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
