@@ -1,4 +1,5 @@
-﻿using PracticalDesign.Pen;
+﻿
+using PracticalDesign.TicTacToe;
 
 namespace PracticalDesign
 {
@@ -6,7 +7,7 @@ namespace PracticalDesign
     {
         static void Main(string[] args)
         {
-            Client.ClientPen();
+            Client.TicTacToeMain();
         }
     }
 }
