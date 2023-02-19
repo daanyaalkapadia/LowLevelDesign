@@ -1,4 +1,4 @@
-﻿
+﻿using LowLevelDesign.Observer;
 
 namespace LowLevelDesign
 {
@@ -6,7 +6,7 @@ namespace LowLevelDesign
     {
         static void Main(string[] args)
         {
-            Singleton.Client.SingletonMain();
+            Client.ObserverMain();
         }
     }
 }
